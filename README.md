@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
-  * building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
-  * Analysing covid numbers for 🇮🇳 - based on a similar study done by Sir David Spiegelhalter for 🇬🇧
   * Project Euler - https://projecteuler.net/about
+  * Analysing covid numbers for 🇮🇳 - based on a similar study done by Sir David Spiegelhalter for 🇬🇧
+  * building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
 
 <br />
 
@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 
 <br />
 
-### 👓🤓 I'm currently reading 📖
-  * Data Science from Scratch - Joel Grus
-  * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
-  * The Art of Statistics: Learning from Data - David Spiegelhalter
-
-<br />
-
 ### 📫 How to reach me 💬 
   * Email: chittamor@gmail.com
   * LinkedIn: https://www.linkedin.com/in/nirbhai/
 
 <br />
 
-- 👯 I’m looking to collaborate for analyzing covid numbers for India.
+### 👓 I'm currently reading 📖
+  * Data Science from Scratch - Joel Grus
+  * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
+  * The Art of Statistics: Learning from Data - David Spiegelhalter
+
+<br />
+
+- 👯 I’m looking to collaborate for analyzing covid numbers for 🇮🇳
 
 - ⚡ Fun fact: import antigravity
