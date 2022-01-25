@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nirbhai - Tech Lead / Data Scientist / Machine Learning Engineer! 👨🏻‍💻
 
-- 🔭 I’m currently building some of the methods of most widely used machine learning / data science libraries from scratch. (such as pandas like data wrangling structures, from scratch regression algorithms, decision trees & forests, neural nets, etc) To develop a deeper understanding of these concepts.
 
 - 🔭 I’m currently building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
 
