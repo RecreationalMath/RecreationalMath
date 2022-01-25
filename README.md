@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently on a sabatical and having fun doing things that I haven't found an employer to pay me to do yet
+🤸‍♂️ I’m currently on a sabatical and having fun doing things that I haven't found an employer to pay me to do yet
 
 
 
 ### 🔭 I’m currently working on ☝🏻 
-  * building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
-  * Analysing covid numbers for India - based on a similar study done by Sir David Spiegelhalter for Britain
-  * Project Euler
+  * 📝 building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
+  * 🎯 Analysing covid numbers for 🇮🇳 - based on a similar study done by Sir David Spiegelhalter for 🇬🇧
+  * 🎳 Project Euler
 
 
 
-### 🌱 In my free time I love 🎨
+### 🌱 In my free time I love ✨
   * going for long walks in Dhauladhars of lower Himalayas 🚶  
   * reading and all things literature 📚
-  * looking at trees outside my window 🌴
+  * looking at trees outside my window 🌲
   * driving 🚘, doing breathwork 😮‍💨 and yoga 🧘‍♂️
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-### 👓 I'm currently reading 📖
+### 👓🤓 I'm currently reading 📖
   * Data Science from Scratch - Joel Grus
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * The Art of Statistics: Learning from Data - David Spiegelhalter
