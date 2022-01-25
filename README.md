@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 > _"No one in this world is smart enough to be hundred percent wrong" - unknown_
 
 <br />
+<br />
 
 🤸‍♂️ I’m currently on a sabatical and having fun doing things that I haven't found an employer to pay me to do yet
 
@@ -58,7 +59,5 @@ Here are some ideas to get you started:
 <br />
 
 - 👯 I’m looking to collaborate for analyzing covid numbers for India.
-
-<br />
 
 - ⚡ Fun fact: import antigravity
