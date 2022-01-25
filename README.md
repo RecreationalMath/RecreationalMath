@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Nirbhai - Tech Lead / Data Scientist / Machine Learning Engineer! 👨🏻‍💻
-> _"No one in this world is smart enough to be hundred percent wrong" - unknown_
+> _"You were once wild here. 
+> Don’t let them tame you." - Isadora Duncan_
 
 <br />
 <br />
