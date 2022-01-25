@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-🤸‍♂️ I’m currently on a sabatical and having fun doing things that I haven't found an employer to pay me to do yet
+🤸‍♂️ I’m currently on a sabatical and having fun doing things that I haven't yet found an employer to pay me to do
 
 <br />
 
