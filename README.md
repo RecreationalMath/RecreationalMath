@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer! 👨🏻‍💻
+# Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer 👨🏻‍💻
 > _"You were once wild here. 
 > Don’t let them tame you." - Isadora Duncan_
 
