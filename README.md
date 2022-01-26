@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 
 <br />
 
-- 👯 I’m looking to collaborate for analysing COVID numbers for 🇮🇳
+- 👥 I’m looking to collaborate for analysing COVID numbers for 🇮🇳
 
 - ⚡ Fun fact: import antigravity
