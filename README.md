@@ -13,34 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nirbhai - Tech Lead / Data Scientist / Machine Learning Engineer! 👨🏻‍💻
+# Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer! 👨🏻‍💻
 > _"You were once wild here. 
 > Don’t let them tame you." - Isadora Duncan_
 
 <br />
 <br />
 
-🤸‍♂️ I’m currently on a sabatical and having fun doing things that I haven't yet found an employer to pay me to do
+🤸‍♂️ I’m currently on a sabbatical having fun doing things that I haven't yet found an employer to pay me to do
 
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
-  * Project Euler - https://projecteuler.net/about
-  * Analysing covid numbers for 🇮🇳 - based on a similar study done by Sir David Spiegelhalter for 🇬🇧
-  * building some of the most widely used Machine Learning/ Data Science methods from scratch. In order to gain a deeper understanding of the underlying algorithms and tradeoffs. (such as pandas like data wrangling structures and methods, numpy like data types, scikit like regression methods, decision trees & forests, neural nets, etc)
+  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs
+  * analysing COVID numbers for 🇮🇳 Inspiration - a similar study done by Sir David Spiegelhalter for 🇬🇧
+  * [Project Euler](https://projecteuler.net/about)
 
 <br />
 
 ### 🌱 In my free time I love ✨
   * going for long walks in Dhauladhars of lower Himalayas 🚶  
-  * reading and all things literature 📚
+  * reading and all things literary 📚
   * looking at trees outside my window 🌲
-  * driving 🚘, doing breathwork 😮‍💨 and yoga 🧘‍♂️
+  * driving 🚘 doing breathwork 😮‍💨 and yoga 🧘‍♂️
 
 <br />
 
 ### 🤔 I'm currently thinking about 💡
-  * Howcome classical statistical models were ok with less data but new machine learning models based on same are not
+  * How come classical statistical models were ok with less data but new machine learning models based on same are not
   * Why is Bayesian way of inferencing probabilities so unintuitive
   * What is a good way to do MLOps
 
@@ -52,13 +52,19 @@ Here are some ideas to get you started:
 
 <br />
 
-### 👓 I'm currently reading 📖
+### 👓 Currently reading/recently read 📖
+#### 👨‍🏫 Work-related 📒
   * Data Science from Scratch - Joel Grus
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * The Art of Statistics: Learning from Data - David Spiegelhalter
+#### 🤩 Just for fun 📚
+  * We That are Young - Preti Taneja
+  * I, Robot - Issac Asimov
+  * Birthday Stories - Haruki Murakami
+  * my wife's thoughts (trying to) 💭
 
 <br />
 
-- 👯 I’m looking to collaborate for analyzing covid numbers for 🇮🇳
+- 👯 I’m looking to collaborate for analysing COVID numbers for 🇮🇳
 
 - ⚡ Fun fact: import antigravity
