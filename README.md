@@ -58,9 +58,8 @@ Here are some ideas to get you started:
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * The Art of Statistics: Learning from Data - David Spiegelhalter
 #### 🤩 Just for fun 📚
-  * We That are Young - Preti Taneja
+  * We That are Young (Shakespeare's King Lear adapted to modern Indian context) - Preti Taneja
   * I, Robot - Issac Asimov
-  * Birthday Stories - Haruki Murakami
   * my wife's thoughts (trying to) 💭
 
 <br />
