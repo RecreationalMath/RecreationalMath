@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 #### 👨‍🏫 Work-related 📒
   * Data Science from Scratch - Joel Grus
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
-  * The Art of Statistics: Learning from Data - David Spiegelhalter
+  * Covid by Numbers - David Spiegelhalter
 #### 🤩 Just for fun 📚
   * We That are Young (Shakespeare's King Lear adapted to modern Indian context) - Preti Taneja
   * I, Robot - Issac Asimov
