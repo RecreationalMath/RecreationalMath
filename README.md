@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer 👨🏻‍💻
-> _"You were once wild here. 
-> Don’t let them tame you." - Isadora Duncan_
 
+> _“It is our choices, Harry, that show what we truly are, far more than our abilities.”
+> ― J.K. Rowling, Harry Potter and the Chamber of Secrets_
+ 
 <br />
 <br />
 
@@ -35,20 +36,20 @@ Here are some ideas to get you started:
   * going for long walks in Dhauladhars of lower Himalayas 🚶  
   * reading and all things literary 📚
   * looking at trees outside my window 🌲
-  * driving 🚘 doing breathwork 😮‍💨 and yoga 🧘‍♂️
+  * driving 🚘, doing breathwork 😮‍💨 and yoga 🧘‍♂️
 
 <br />
 
 ### 🤔 I'm currently thinking about 💡
-  * How come classical statistical models were ok with less data but new machine learning models based on same are not
-  * Why is Bayesian way of inferencing probabilities so unintuitive
-  * What is a good way to do MLOps
+  * How come classical statistical models were ok with less data but new machine learning models based on same are not?
+  * Why is Bayesian way of inferencing probabilities so unintuitive?
+  * What is a good way to do MLOps?
 
 <br />
 
 ### 📫 How to reach me 💬 
   * Email: chittamor@gmail.com
-  * LinkedIn: https://www.linkedin.com/in/nirbhai/
+  * LinkedIn: https://www.linkedin.com/in/nirbhai/ Not very active 🤷🏻‍♂️
 
 <br />
 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
   * Covid by Numbers - David Spiegelhalter
 #### 🤩 Just for fun 📚
   * We That are Young (Shakespeare's King Lear adapted to modern Indian context) - Preti Taneja
-  * I, Robot - Issac Asimov
+  * The Positronic Man - Issac Asimov
   * my wife's thoughts (trying to) 💭
 
 <br />
