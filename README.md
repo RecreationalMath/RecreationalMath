@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   * Covid by Numbers - David Spiegelhalter
 #### 🤩 Just for fun 📚
   * We That are Young (Shakespeare's King Lear adapted to modern Indian context) - Preti Taneja
-  * The Positronic Man - Issac Asimov
+  * The Positronic Man (I'm on book 2/17 in Robots-Empire-Foundation saga) - Issac Asimov
   * my wife's thoughts (trying to) 💭
 
 <br />
