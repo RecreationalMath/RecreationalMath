@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer 👨🏻‍💻
 
-> _“It is our choices, Harry, that show what we truly are, far more than our abilities.”
-> ― J.K. Rowling, Harry Potter and the Chamber of Secrets_
+> _“An inconvenience is an adventure wrongly considered.”
+> ― G.K. Chesterton_
  
 <br />
 <br />
