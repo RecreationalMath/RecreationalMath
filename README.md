@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <br />
 
 ### 🌱 In my free time I love ✨
-  * going for long walks in Dhauladhars (lower Himalayas) 🚶  
+  * going for long walks 🚶  
   * reading and all things literary 📚
   * looking at trees outside my window 🌲
-  * driving 🚘, doing breathwork 😮‍💨 and yoga 🧘‍♂️
+  * driving 🚘
 
 <br />
 
