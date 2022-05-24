@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### 🤔 I'm currently thinking about 💡
   * How come classical statistical models were ok with less data but new machine learning models based on same are not?
   * Why is Bayesian way of inferencing probabilities so unintuitive?
-  * Machine Learning Design Patterns!!
+  * Machine Learning Design Patterns and MLOps!!
 
 <br />
 
