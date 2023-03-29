@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### 🤔 I'm currently thinking about 💡
   * How come classical statistical models were ok with less data but new machine learning models based on same are not?
-  * Why is Bayesian way of inferencing probabilities so unintuitive?
+  * Why is Bayesian way of inferencing probabilities so unintuitive? (atleast to me)
   * Machine Learning Design Patterns and MLOps!!
 
 <br />
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * Covid by Numbers - David Spiegelhalter
 #### 🤩 Just for fun 📚
-  * The Wind-up Bird Chronicle - Haruki Murakami
+  * 1984 - George Orwell
   * The Caves of Steel (I'm on book 3/17 in Robots-Empire-Foundation saga) - Issac Asimov
   * my wife's thoughts (trying to) 💭
 
