@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Nirbhai - Data Scientist / Machine Learning Engineer 👨🏻‍💻
+# Hi there, I'm Nirbhai - Machine Learning Engineer 👨🏻‍💻
 
-> _“An inconvenience is an adventure wrongly considered.”
-> ― G.K. Chesterton_
+> _“One must imagine Sisyphus happy.”
+> ― Albert Camus_
  
 <br />
 <br />
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ☝🏻 
   * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs
-  * analysing COVID numbers for 🇮🇳 Inspiration - a similar study done by Sir David Spiegelhalter for 🇬🇧
   * [Project Euler](https://projecteuler.net/about)
 
 <br />
@@ -43,13 +42,13 @@ Here are some ideas to get you started:
 ### 🤔 I'm currently thinking about 💡
   * How come classical statistical models were ok with less data but new machine learning models based on same are not?
   * Why is Bayesian way of inferencing probabilities so unintuitive? (atleast to me)
-  * Machine Learning Design Patterns and MLOps!!
+  * Machine learning design patterns and MLOps!!
 
 <br />
 
 ### 📫 How to reach me 💬 
   * Email: chittamor@gmail.com
-  * LinkedIn: https://www.linkedin.com/in/nirbhai/ Not very active 🤷🏻‍♂️
+  * LinkedIn: https://www.linkedin.com/in/nirbhai/ 
 
 <br />
 
@@ -57,14 +56,12 @@ Here are some ideas to get you started:
 #### 👨‍🏫 Work-related 📒
   * Data Science from Scratch - Joel Grus
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
-  * Covid by Numbers - David Spiegelhalter
+  * Designing Machine Learning Systems - Chip Huyen
 #### 🤩 Just for fun 📚
-  * 1984 - George Orwell
+  * The Myth of Sisyphus - Albert Camus
   * The Caves of Steel (I'm on book 3/17 in Robots-Empire-Foundation saga) - Issac Asimov
   * my wife's thoughts (trying to) 💭
 
 <br />
-
-- 👥 I’m looking to collaborate for analysing COVID numbers for 🇮🇳
 
 - ⚡ Fun fact: import antigravity
