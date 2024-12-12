@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on ☝🏻 
   * building a wooden cabin
   * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs
-  * [Project Euler](https://projecteuler.net/about)
+<!--  * [Project Euler](https://projecteuler.net/about) -->
 
 <br />
 
