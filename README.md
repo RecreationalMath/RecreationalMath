@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
+  * building a wooden cabin
   * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs
   * [Project Euler](https://projecteuler.net/about)
 
@@ -58,8 +59,8 @@ Here are some ideas to get you started:
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * Designing Machine Learning Systems - Chip Huyen
 #### 🤩 Just for fun 📚
-  * The Myth of Sisyphus - Albert Camus
-  * The Caves of Steel (I'm on book 3/17 in Robots-Empire-Foundation saga) - Issac Asimov
+  * Censoring an Iranian Love Story - Shahriar Mandanipour
+  * The Year of Magical Thinking - Joan Didion
   * my wife's thoughts (trying to) 💭
 
 <br />
