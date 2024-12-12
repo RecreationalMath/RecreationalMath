@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * Designing Machine Learning Systems - Chip Huyen
 #### 🤩 Just for fun 📚
-  * Censoring an Iranian Love Story - Shahriar Mandanipour
+  * Religion for Atheists: A Non-Believer's Guide to the Uses of Religion - Alain de Botton
   * The Year of Magical Thinking - Joan Didion
   * my wife's thoughts (trying to) 💭
 
