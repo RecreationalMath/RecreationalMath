@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
+  * migrating the backend of time series forecasters in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
   * building a wooden cabin
-  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs
+<!--  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs -->
 <!--  * [Project Euler](https://projecteuler.net/about) -->
 
 <br />
