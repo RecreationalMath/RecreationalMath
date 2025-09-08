@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 > ― Albert Camus_
  
 <br />
-<br />
 
 🤸‍♂️ I’m currently on a sabbatical having fun doing things that I haven't yet found an employer to pay me to do
 
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
   * going for long walks 🚶  
   * reading and all things literary 📚
   * looking at trees outside my window 🌲
-  * driving 🚘
 
 <br />
 
