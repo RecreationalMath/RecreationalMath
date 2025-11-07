@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
-  * Open Source: migrating the backend of time series forecasters in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
+  * German Centre for Open Source AI: migrating the backend of Deep Learning time series models in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
   * building a wooden cabin
+  * BlueDot Impact's Technical AI Safety course
 <!--  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs -->
 <!--  * [Project Euler](https://projecteuler.net/about) -->
 
@@ -47,7 +48,6 @@ Here are some ideas to get you started:
 <br />
 
 ### 📫 How to reach me 💬 
-  * Email: chittamor@gmail.com
   * LinkedIn: https://www.linkedin.com/in/nirbhai/ 
 
 <br />
