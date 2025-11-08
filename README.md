@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’m currently working on ☝🏻 
-  * German Centre for Open Source AI: migrating the backend of Deep Learning time series models in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
+  * German Centre for Open Source AI:
+    * Improving the architecture and interface design of Deep Learning models in [sktime](https://www.sktime.net/en/stable/)
+    * Migrating the backend of Deep Learning time series models in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
   * building a wooden cabin
   * BlueDot Impact's Technical AI Safety course
 <!--  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs -->
