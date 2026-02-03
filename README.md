@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 
 ### 🔭 I’ve previously worked on 🕵🏻‍♂️
-* Built (with help from others) a wooden cabin 🪵
+* Built a wooden cabin 🪵
 * Founded a product and UX design agency specializing in AI products 📲
 * Built dynamic pricing models at PriceLabs for short term rental revenue optimization 📈
 * Integrated moderm ML techniques into legacy Avionics products at Honeywell Aerospace as an ML Tech Lead ✈️
