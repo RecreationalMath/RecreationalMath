@@ -28,14 +28,14 @@ Here are some ideas to get you started:
   * German Centre for Open Source AI:
     * Improving the architecture and interface design of Deep Learning models in [sktime](https://www.sktime.net/en/stable/)
     * Migrating the backend of Deep Learning time series models in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
-  * building a wooden cabin 🪵
-  * BlueDot Impact's Technical AI Safety course ☢️
+<!--  * BlueDot Impact's Technical AI Safety course ☢️ -->
 <!--  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs -->
 <!--  * [Project Euler](https://projecteuler.net/about) -->
 
 <br />
 
 ### 🔭 I’ve previously worked on 🕵🏻‍♂️
+* Built (with help from others) a wooden cabin 🪵
 * Founded a product and UX design agency specializing in AI products 📲
 * Built dynamic pricing models at PriceLabs for short term rental revenue optimization 📈
 * Integrated moderm ML techniques into legacy Avionics products at Honeywell Aerospace as an ML Tech Lead ✈️
