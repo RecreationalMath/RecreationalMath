@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 <br />
 
-🤸‍♂️ I’m currently on a sabbatical having fun doing things that I haven't yet found an employer to pay me to do
+🤸‍♂️ ~~I’m currently on a sabbatical having fun doing things that I haven't yet found an employer to pay me to do~~ <ins>Update</ins>: Found a Unicorn 🦄 @sktime
 
 <br />
 
