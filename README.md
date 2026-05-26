@@ -68,16 +68,17 @@ Here are some ideas to get you started:
 <br />
 
 ### 📫 How to reach me 💬 
-  * LinkedIn: https://www.linkedin.com/in/nirbhai/ 
+LinkedIn: https://www.linkedin.com/in/nirbhai/ 
 
 <br />
 
-### 👓 Currently reading/recently read 📖
-#### 👨‍🏫 Work-related 📒
+### 📖 Currently reading/recently read 👓
+👨‍🏫 Work-related 📒
   * Designing Machine Learning Systems - Chip Huyen
   * Concrete Problems in AI Safety (paper) - Amodei et al.
   * Human Compatible: AI & the problem of control - Stuart Russell
-#### 🤩 Just for fun 📚
+
+🤩 Just for fun 📚
   * A Chess Story - Stefan Zweig
   * Artificial Condition (The Murderbot Diaries, #2) - Martha Wells
   * my wife's thoughts (trying to) 💭
