@@ -27,22 +27,29 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ☝🏻 
-  * German Centre for Open Source AI:
-    * Improving the architecture and interface design of Deep Learning models in [sktime](https://www.sktime.net/en/stable/)
-    * Migrating the backend of Deep Learning time series models in [sktime](https://www.sktime.net/en/stable/) from TensorFlow to PyTorch
-<!--  * BlueDot Impact's Technical AI Safety course ☢️ -->
+
+**Open Source AI**
+
+- **[sktime](https://www.sktime.net/en/stable/)** (ex-Senior AI Engineer & Maintainer): Redesigned the Deep Learning model architecture, built a PyTorch-based RNN classifier/regressor for time-series, and led the TensorFlow-to-PyTorch backend migration. Also redesigned the Forecasting Horizon module to decouple it from pandas, and contributed to dependency resolution, testing infrastructure, and reviewing community PRs across the framework. 
+- **[LightlySSL](https://github.com/lightly-ai/lightly)**: Implementing LeJEPA (self-supervised learning for vision foundation models by Balestriero & LeCun et al.) - core modules, loss functions, multi-view transforms, and distributed training. Migrated the project's linting and formatting infrastructure to ruff.
+
+**Exploring AI Safety**
+
+- Replicating Anthropic's [Synthetic Document Finetuning study](https://alignment.anthropic.com/2025/modifying-beliefs-via-sdf/) to deepen my understanding of how post-training interventions affect model behaviour, on Llama-3.1-8B using gpt-4o-mini generation and QLoRA finetuning on free Kaggle GPUs). Check [here](https://github.com/RecreationalMath/sdf-replication).
+- Started contributing to **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** and **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)**, both crucial pieces of AI safety tooling and infrastructure (LLM evaluation and mechanistic interpretability).
+- Completed Blue Dot Impact's Technical AI Safety course (alignment, RLHF, mechanistic interpretability, evaluations, red-teaming, scalable oversight) ☢️
+- I'm open to collaborations in AI Safety, feel free to reach out via LinkedIn mentioned at the end.
+
+  
 <!--  * building ML/DS's widely used methods from scratch to gain a deeper understanding of the underlying algorithms & tradeoffs -->
 <!--  * [Project Euler](https://projecteuler.net/about) -->
-
 <br />
 
 ### 🔭 I’ve previously worked on 🕵🏻‍♂️
-* Built a wooden cabin 🪵
-* Founded a product and UX design agency specializing in AI products 📲
-* Built dynamic pricing models at PriceLabs for short term rental revenue optimization 📈
-* Integrated moderm ML techniques into legacy Avionics products at Honeywell Aerospace as an ML Tech Lead ✈️
-
-
+- ML Tech Lead at **Honeywell Aerospace**: architected an org-wide ML framework, shipped models across anomaly detection, NLP search, and time-series prediction ✈️
+- Built Bayesian probabilistic forecasting at **PriceLabs**, serving 500K+ users daily 📈
+- Co-founded **[Zencat Studios](https://www.zencat.studio/)**, a product and UX design agency for AI products 📲
+- Built a wooden cabin in the lower Himalayas 🪵
 
 <br />
 
@@ -54,9 +61,9 @@ Here are some ideas to get you started:
 <br />
 
 ### 🤔 I'm currently thinking about 💡
-  * How come classical statistical models were ok with less data but new machine learning models based on same are not?
-  * Why is Bayesian way of inferencing probabilities so unintuitive? (atleast to me)
-  * Machine learning design patterns and MLOps!!
+  * How interpretability could help bridge the gap between what a model knows and what we can verify it knows.
+  * Why classical statistical models worked well with less data, while modern ML models built on the same foundations are so data-hungry.
+  * The boundary between scalable oversight and human judgement, and how to design systems where the former supports the latter rather than replacing it.
 
 <br />
 
@@ -67,14 +74,14 @@ Here are some ideas to get you started:
 
 ### 👓 Currently reading/recently read 📖
 #### 👨‍🏫 Work-related 📒
-  * Data Science from Scratch - Joel Grus
-  * Practical Statistics for Data Scientists - Peter Gedeck, Andrew Bruce, Peter C. Bruce
   * Designing Machine Learning Systems - Chip Huyen
+  * Concrete Problems in AI Safety (paper) - Amodei et al.
+  * Human Compatible: AI & the problem of control - Stuart Russell
 #### 🤩 Just for fun 📚
-  * Religion for Atheists: A Non-Believer's Guide to the Uses of Religion - Alain de Botton
-  * The Year of Magical Thinking - Joan Didion
+  * A Chess Story - Stefan Zweig
+  * Artificial Condition (The Murderbot Diaries, #2) - Martha Wells
   * my wife's thoughts (trying to) 💭
 
 <br />
 
-- ⚡ Fun fact: import antigravity
+⚡ Fun fact: import antigravity
