@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - **[sktime](https://www.sktime.net/en/stable/)** (ex-Senior AI Engineer & Maintainer): Redesigned the Deep Learning model architecture, built a PyTorch-based RNN classifier/regressor for time-series, and led the TensorFlow-to-PyTorch backend migration. Also redesigned the Forecasting Horizon module to decouple it from pandas, and contributed to dependency resolution, testing infrastructure, and reviewing community PRs across the framework. 
 - **[LightlySSL](https://github.com/lightly-ai/lightly)**: Implementing LeJEPA (self-supervised learning for vision foundation models by Balestriero & LeCun et al.) - core modules, loss functions, multi-view transforms, and distributed training. Migrated the project's linting and formatting infrastructure to ruff.
 
-**Exploring AI Safety**
+**Exploring AI Safety** ☢️
 
 - Replicating Anthropic's [Synthetic Document Finetuning study](https://alignment.anthropic.com/2025/modifying-beliefs-via-sdf/) to deepen my understanding of how post-training interventions affect model behaviour, on Llama-3.1-8B using gpt-4o-mini generation and QLoRA finetuning on free Kaggle GPUs). Check [here](https://github.com/RecreationalMath/sdf-replication).
-- Started contributing to **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** and **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)**, both crucial pieces of AI safety tooling and infrastructure (LLM evaluation and mechanistic interpretability).
-- Completed Blue Dot Impact's Technical AI Safety course (alignment, RLHF, mechanistic interpretability, evaluations, red-teaming, scalable oversight) ☢️
+- Contributing to **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** and **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)**, both crucial pieces of AI safety tooling and infrastructure (LLM evaluation and mechanistic interpretability).
+- Completed Blue Dot Impact's Technical AI Safety course (alignment, RLHF, mechanistic interpretability, evaluations, red-teaming, scalable oversight) 
 - I'm open to collaborations in AI Safety, feel free to reach out via LinkedIn mentioned at the end.
 
   
